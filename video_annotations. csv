@@ -1,0 +1,7 @@
+start_time,end_time,object,activity,scene,event_description,quality
+00:00.00,00:04.00,Person,Walking,Outdoor,"Person walking across the scene",Good
+00:04.00,00:08.00,Person,Speaking,Classroom,"Person speaking to another person",Good
+00:08.00,00:12.00,Person,Writing,Classroom,"Person writing on a board",Good
+00:12.00,00:16.00,Book,Being held,Classroom,"Person holding a book",Good
+00:16.00,00:20.00,Person,Using equipment,Laboratory,"Person interacting with laboratory equipment",Good
+00:20.00,00:24.00,Computer,Being used,Office,"Person working on a computer",Good
