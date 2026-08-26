@@ -1,0 +1,7 @@
+start_time,end_time,speaker,transcription,audio_label,background_sound,quality
+00:00.00,00:04.50,Speaker 1,"Welcome to today's lesson.",Speech,None,Good
+00:04.50,00:07.00,Speaker 1,"We will discuss chemical reactions.",Speech,Low background noise,Good
+00:07.00,00:09.50,Speaker 2,"Can you explain that again?",Speech,None,Good
+00:09.50,00:11.00,Speaker 1,"Yes, of course.",Speech,None,Good
+00:11.00,00:14.00,None,None,Non-Speech,Background music,Good
+00:14.00,00:17.50,Speaker 1,"The reaction requires heat.",Speech,Low background noise,Good
