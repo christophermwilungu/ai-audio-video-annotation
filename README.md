@@ -1,61 +1,51 @@
-AI Audio & Video Annotation Portfolio
+Hi, I'm Christopher Mwilungu 👋
 
-Project Overview
+AI Data Annotation | AI Training | Audio & Video Annotation
 
-A self-directed portfolio project demonstrating practical skills in AI audio and video data annotation, labeling, timestamping, and quality control.
+I'm an Industrial Chemistry student developing practical skills in AI data annotation, AI training, data quality control, and machine-learning data preparation.
 
-The project explores how structured multimedia annotations can be prepared for AI training, machine-learning, and multimodal AI applications.
+I am interested in opportunities where I can contribute to improving AI systems through accurate, consistent, and high-quality data.
 
-Objectives
+🧠 Skills & Areas of Interest
 
-- Practice accurate audio and video annotation.
-- Create consistent timestamped labels.
-- Identify speech, speakers, sounds, objects, and activities.
-- Apply quality-control procedures to annotated data.
-- Document annotation decisions clearly and consistently.
+- AI Data Annotation
+- Audio Annotation & Transcription
+- Video Annotation
+- Object Detection & Tracking
+- Activity Recognition
+- Speaker Identification
+- Data Labeling
+- Quality Control & Data Validation
+- AI Training & Evaluation
+- Structured Dataset Preparation
 
-Annotation Areas
+📂 Featured Project
 
-Audio Annotation
+AI Audio & Video Annotations
 
-- Speech and non-speech classification
-- Speaker identification
-- Timestamping
-- Transcription
-- Background sound identification
-- Audio quality assessment
+A practical portfolio project demonstrating how audio and video data can be prepared and labeled for AI and machine-learning applications.
 
-Video Annotation
+Project includes:
 
-- Object identification
-- Activity/action labeling
-- Scene/event classification
-- Timestamped events
-- Basic video quality assessment
+- Audio annotation guidelines
+- Video annotation guidelines
+- Annotation examples
+- Audio annotation dataset
+- Video annotation dataset
+- Quality-control procedures
 
-Quality Control
+🎯 Career Goal
 
-Annotations are reviewed for:
+I'm building practical experience toward opportunities in:
 
-- Accuracy
-- Consistency
-- Correct timestamps
-- Clear labels
-- Completeness
-- Compliance with annotation guidelines
+- AI Data Annotation
+- AI Training
+- Data Quality
+- Machine Learning Data Preparation
+- AI Evaluation
 
-Project Structure
+📫 Contact
 
-The repository will contain annotation guidelines, sample annotation datasets, quality-control documentation, and annotation examples.
+Email: christophermwilungu4@gmail.com
 
-Skills Demonstrated
-
-AI Data Annotation • Audio Annotation • Video Annotation • Data Labeling • Quality Control • Transcription • Timestamping • Attention to Detail • GitHub Documentation
-
-Project Type
-
-Self-directed portfolio project created to demonstrate practical AI data annotation skills.
-
-Author
-
-Christopher Mwilungu
+I'm open to remote and freelance opportunities involving AI data, annotation, training, and evaluation.
